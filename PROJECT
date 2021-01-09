@@ -1,0 +1,25 @@
+<!doctypehtml>
+<html> 
+<head> <title> JITENDER TANWAR </title></head>
+<body> 
+<h3> FORM </h3>
+<form> 
+FIRST NAME:<input type="text"placeholder="ENTER YOUR NAME"><br>
+
+LAST NAME:<input type="text"placeholder="ENTER LAST NAME"><br>
+
+CONTACT NUMBER:<input type="text"placeholder="ENTER NUMBER"><br>
+
+EMAIL ADDRESS:<input type="text"placeholder="ENTER EMAIL"><br>
+
+GENDER:<input type="radio" name="gender">MALE
+       <input type="radio" name="gender">FEMALE
+       <input type="radio" name="gender">OTHERS 
+
+
+
+
+
+</form>
+</body>
+</html>
